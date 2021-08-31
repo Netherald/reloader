@@ -1,0 +1,4 @@
+name: ${rootProject.name}
+version: ${rootProject.verison}
+api-version: 1.12
+main: net.projecttl.reloader.ReloaderPlugin
