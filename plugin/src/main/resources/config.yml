@@ -1,0 +1,4 @@
+remote_reload: false # If you want a use this, please type "true"
+
+port: 30000
+secret_message: Secret
